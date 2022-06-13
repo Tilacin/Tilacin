@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tilacin
+- 👋 Hi, I’m @Aleksandr
 - 🌱 I’m currently learning ...
 
 <!---
